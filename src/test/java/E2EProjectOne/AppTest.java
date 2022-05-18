@@ -16,5 +16,7 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+        
+        System.out.println("Modification by 2nd user");
     }
 }
