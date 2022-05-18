@@ -1,0 +1,6 @@
+13:20:16.635 [main] INFO  Resources.Baseclass - User:toji1Logged Out
+14:06:38.449 [TestNG-tests-3] INFO  Resources.Baseclass - Driver initialized
+14:07:10.980 [TestNG-tests-3] INFO  Resources.Baseclass - Hit on pagehttp://www.qaclickacademy.com/
+14:07:16.920 [TestNG-tests-1] INFO  Resources.Baseclass - Validate Navigation Bar Completed
+14:07:32.436 [TestNG-tests-4] INFO  Resources.Baseclass - Invalid User Name & Password
+14:07:49.158 [TestNG-tests-4] INFO  Resources.Baseclass - Invalid User Name & Password

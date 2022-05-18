@@ -1,0 +1,5 @@
+13:32:33.185 [TestNG-tests-1] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xa0a4f08568f144ef
+13:32:33.429 [Forwarding newSession on session null to remote] INFO  Resources.Baseclass - Driver initialized
+13:32:43.206 [TestNG-tests-1] INFO  Resources.Baseclass - Validate Navigation Bar Completed
+13:32:51.128 [Forwarding newSession on session null to remote] INFO  Resources.Baseclass - Hit on pagehttp://www.qaclickacademy.com/
+13:32:51.708 [TestNG-tests-4] INFO  Resources.Baseclass - Invalid User Name & Password
