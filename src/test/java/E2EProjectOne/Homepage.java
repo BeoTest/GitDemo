@@ -36,6 +36,7 @@ public class Homepage extends Baseclass{
 	 loginObj.getButton().click();
 	 System.out.println(uName+","+uPwd);
 	 log.info("Invalid User Name & Password");
+	 log.info("GitDemo Master change");
 	 
 	 ForgotPasswordObjects fpObj = loginObj.getForgotPwd();
 	 fpObj.getEmail().sendKeys("rajeev@gmail.com");
