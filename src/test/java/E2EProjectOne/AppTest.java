@@ -18,5 +18,6 @@ public class AppTest
         assertTrue( true );
         
         System.out.println("Modification by 2nd user");
+        System.out.println("Modification in develop branch");
     }
 }
